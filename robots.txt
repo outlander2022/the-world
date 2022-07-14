@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://outlander2022.github.io/the-world/the-world/sitemap.xml
